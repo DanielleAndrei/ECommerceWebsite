@@ -11,7 +11,7 @@
 body {
     font-family: 'Dosis', cursive;
     height: 100vh;
-    background-image: url('final_bg.png'); /* Replace 'your-background-image.jpg' with the path to your image */
+    background-image: url('pictures/final_bg.png'); /* Replace 'your-background-image.jpg' with the path to your image */
     background-size: cover; /* Cover the entire viewport */
     background-position: center; /* Center the background image */
     color: #b56c23;
